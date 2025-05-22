@@ -10,4 +10,4 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=987)](https://codeforces.com/profile/987)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yyyy7089)](https://solved.ac/yyyy7089)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyyy7089)](https://solved.ac/yyyy7089)
