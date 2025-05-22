@@ -11,3 +11,12 @@
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=987)](https://codeforces.com/profile/987)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyyy7089)](https://solved.ac/yyyy7089)
+
+Major Competitions
+<li> 경희대학교 2024 가을 프로그래밍 대회 2nd place
+<li> ICPC Seoul Regional 2024 예선 43rd place
+<li> ICPC Seoul Regional 2024 50th place
+<li> shake! 2024 3rd place
+
+Problemsetting
+<li> 경희대학교 2025 봄 프로그래밍 대회 출제 및 운영
