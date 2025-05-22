@@ -9,7 +9,7 @@
 ## Problemsolving & Competitive Programming
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=987)](https://codeforces.com/profile/987)
-![solved.ac stats](https://solvedac-cards-starcea.paring.moe/problems/yyyy7089)
+![solved.ac stats](https://solvedac-cards-starcea.paring.moe/profile/yyyy7089)
 
 ### Major Competitions
 <li> 경희대학교 2024 가을 프로그래밍 대회 2nd place
