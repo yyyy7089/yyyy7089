@@ -14,9 +14,9 @@
 
 ### Major Competitions
 <li> 경희대학교 2024 가을 프로그래밍 대회 2nd place
-<li> ICPC Seoul Regional 2024 예선 43rd place
-<li> ICPC Seoul Regional 2024 50th place
-<li> shake! 2024 3rd place
+<li> ICPC Seoul Regional 2024 예선 43rd place, 본선 50th place
+<li> 경인지역 대학 연합 프로그래밍 경진대회 shake! 2024 3rd place
+<li> AWC X Codetree Programming Contest (ACPC) 예선 37th place, 본선 30th place
 
 ### Problemsetting
-<li> 경희대학교 2025 봄 프로그래밍 대회 출제 및 운영
+<li> 경희대학교 2025 봄 프로그래밍 대회 출제 및 운영 (13문제 중 6문제 출제)
