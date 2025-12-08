@@ -17,6 +17,9 @@
 <li> 경인지역 대학 연합 프로그래밍 경진대회 shake! 2024 3rd place
 <li> AWC X Codetree Programming Contest (ACPC) 2025 예선 37th place, 본선 30th place
 <li> 전국 대학생 프로그래밍 대회 동아리 연합 2025년 여름 대회 (UCPC 2025) 예선 16th place, 본선 15th place (5th prize award)</li>
+<li> ICPC Seoul Regional 2024 예선 31st place, 본선 28th place
 
 ### Problemsetting
 <li> 경희대학교 2025 봄 프로그래밍 대회 출제 및 운영 (13문제 중 6문제 출제)
+<li> 2025 경희대학교 shake! 예선 출제 및 운영 (10문제 중 5문제 출제)
+<li> DSPC 2025 (Dankook Univ. SWAG Programming Contest) 출제 (10문제 중 5문제 출제)
