@@ -1,6 +1,6 @@
 # Sangwon Lee (yyyy7089)
 
-## Kyung Hee University 2nd grade student
+## Kyung Hee University 3rd grade student
 다음 언어들을 사용 가능합니다.
 <li> Python 3 (주 사용 언어)
 <li> C/C++ (학부생 수준)
