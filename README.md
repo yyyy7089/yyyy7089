@@ -7,8 +7,10 @@
 
 ## Problemsolving & Competitive Programming
 
-[![codeforces stats](https://codeforces-readme-stats.vercel.app/api/card?username=987)](https://codeforces.com/profile/987)
+Codeforces: LLM (전 987, yyyy7089)
+[![codeforces stats](https://codeforces-readme-stats.vercel.app/api/card?username=987)](https://codeforces.com/profile/LLM)
 <br>
+BOJ: yyyy7089
 [![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yyyy7089)](https://solved.ac/profile/yyyy7089)
 
 ### Major Competitions
@@ -18,9 +20,14 @@
 <li> AWC X Codetree Programming Contest (ACPC) 2025 예선 37th place, 본선 30th place
 <li> 전국 대학생 프로그래밍 대회 동아리 연합 2025년 여름 대회 (UCPC 2025) 예선 16th place, 본선 15th place (5th prize award)</li>
 <li> 경희대학교 2025 가을 프로그래밍 대회 1st place
-<li> ICPC Seoul Regional 2024 예선 31st place, 본선 28th place
+<li> ICPC Seoul Regional 2025 예선 31st place, 본선 28th place
+<li> UCPC 2026 
 
 ### Problemsetting
+<b> 총괄인 경우 아스테리스크*를 붙입니다.</b>
 <li> 경희대학교 2025 봄 프로그래밍 대회 출제 및 운영 (13문제 중 6문제 출제)
-<li> 2025 경희대학교 shake! 예선 출제 및 운영 (10문제 중 5문제 출제)
-<li> DSPC 2025 (Dankook Univ. SWAG Programming Contest) 출제 (10문제 중 5문제 출제)
+<li> 2025 경희대학교 shake! 예선 출제 및 운영* (10문제 중 5문제 출제)
+<li> DSPC 2025 (Dankook Univ. SWAG Programming Contest) 출제* (10문제 중 5문제 출제)
+<li> 경희대학교 2026 봄 프로그래밍 대회 출제 및 운영* (10문제 중 4문제 출제)
+
+### Problem Reviewing
