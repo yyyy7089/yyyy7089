@@ -32,6 +32,7 @@ Solved: 5000+ <br>
 - DSPC 2025 (Dankook Univ. SWAG Programming Contest) 출제* (10문제 중 5문제 출제)
 - 경희대학교 2026 봄 프로그래밍 대회 출제 및 운영* (10문제 중 4문제 출제) [DOJ](https://doj.kr/ko/categories/school/kyunghee/khspc2026)
 - Cartoon Cup: ONE (개인) 출제 (13문제 중 6문제 출제) [DOJ](https://doj.kr/ko/categories/user/cartoon1)
+- Centroid Cup 2026 (중앙대학교, 인하대학교, 아주대학교, 국민대학교) 출제 (15문제 중 1문제 출제) [DOJ](https://doj.kr/ko/categories/school/centroid/2026)
 
 ### Problem Reviewing
 - 2024 충남대학교 SW-IT Contest 검수
