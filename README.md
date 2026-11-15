@@ -24,6 +24,8 @@ Solved: 5000+ <br>
 - 경희대학교 2025 가을 프로그래밍 대회 1st place
 - ICPC Seoul Regional 2025 예선 31st place, 본선 28th place
 - 전국 대학생 프로그래밍 대회 동아리 연합 2026년 여름 대회 (UCPC 2026) 예선 18th place, 본선 23rd place
+- 경희대학교 2026 가을 프로그래밍 대회 1st place
+- ICPC Seoul Regional 2026 예선 15th place, 본선 13th place (동상, 국내 팀 9th place)
 
 ### Problemsetting
 총괄인 경우 아스테리스크*를 붙입니다.
@@ -33,6 +35,7 @@ Solved: 5000+ <br>
 - 경희대학교 2026 봄 프로그래밍 대회 출제 및 운영* (10문제 중 4문제 출제) [DOJ](https://doj.kr/ko/categories/school/kyunghee/khspc2026)
 - Cartoon Cup: ONE (개인) 출제 (13문제 중 6문제 출제) [DOJ](https://doj.kr/ko/categories/user/cartoon1)
 - Centroid Cup 2026 (중앙대학교, 인하대학교, 아주대학교, 국민대학교) 출제 (15문제 중 1문제 출제) [DOJ](https://doj.kr/ko/categories/school/centroid/2026)
+- DOJ Starter Contest 1 출제 (9문제 중 9문제 출제) [DOJ](https://doj.kr/ko/categories/doj/dsc/dsc1)
 
 ### Problem Reviewing
 - 2024 충남대학교 SW-IT Contest 검수
@@ -42,3 +45,6 @@ Solved: 5000+ <br>
 - 2025 부산대학교 프로그래밍 대회 검수
 - 2025 shake! (아주대학교, 경희대학교, 성균관대학교, 인하대학교, 한국항공대학교, 한양대학교 ERICA, 단국대학교) 검수
 - 2026 명지대학교 프로그래밍 대회 (2026 MUPC) 검수
+- Centroid Cup 2026 (중앙대학교, 인하대학교, 아주대학교, 국민대학교) 검수
+- 2026 세종대학교 프로그래밍 대회 (SJUPC 2026) 검수
+- 2026 Sogang Programming Contest (2026 SPC) (개인) 검수
